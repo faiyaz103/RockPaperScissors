@@ -1,4 +1,4 @@
-# RockPaperScissors Game
+# RockPaperScissors
 
 RockPaperScissors is an iOS app developed as part of the course **Mobile Computing Lab (CSE 3202)** at **Khulna University of Engineering and Technology**. The game allows users to play a simple "Rock, Paper, Scissors" match against a computer opponent.
 

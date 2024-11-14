@@ -7,6 +7,7 @@ RockPaperScissors is an iOS app developed as part of the course **Mobile Computi
 - Displays the current score of the player versus the computer.
 
 ## App Preview
-![Home](assets/home.png)
-![Game Screen](assets/score.png)
-![End](assets/end.png)
+<img src="assets/home.png" alt="Home" width="300"/>
+<img src="assets/score.png" alt="Game Screen" width="300"/>
+<img src="assets/end.png" alt="End" width="300"/>
+
